@@ -7,7 +7,7 @@ This repository contains implementations of language models following Andrej Kar
 - `bigram.py` - Simple bigram language model implementation
 - `gpt.py` - Full GPT transformer implementation with multi-head attention
 - `input.txt` - Tiny Shakespeare dataset for training
-- `ravindra_gpt_learning_from_karpathy (1).ipynb` - Jupyter notebook with step-by-step learning process
+- `ravindra_gpt_learning_from_karpathy.ipynb` - Jupyter notebook with step-by-step learning process
 
 ## 🚀 Features
 
